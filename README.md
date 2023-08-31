@@ -34,6 +34,13 @@ Esse projeto é uma aplicação de portfólio interativo que permite ao usuário
 * Secondary: rgb(0, 59, 50);
 * BgLight: rgb(190, 181, 181);
 
+**Efeito de Rolagem da Página**
+<div align="center">
+<img src="https://github.com/Arturstriker3/Vuefolio/assets/59231364/de78f4c0-5e77-479a-98b0-810d3f4d2a5f" width="auto" height="auto" />
+</div>
+<p>Rodapé com toque final de autoria</p>
+<br/>
+
 **Visual da Home**
 <div align="center">
 <img src="https://github.com/Arturstriker3/Vuefolio/assets/59231364/92ce5cf5-9116-4382-b097-d1438afcdfa3" width="auto" height="auto"/>
@@ -56,7 +63,7 @@ Esse projeto é uma aplicação de portfólio interativo que permite ao usuário
 
 **Footer da Página**
 <div align="center">
-<img src="https://github.com/Arturstriker3/Vuefolio/assets/59231364/f06d73e1-1e42-43ea-9ab4-7003a7208e7e" width="auto" height="400px" />
+<img src="https://github.com/Arturstriker3/Vuefolio/assets/59231364/f06d73e1-1e42-43ea-9ab4-7003a7208e7e" width="auto" height="auto" />
 </div>
 <p>Rodapé com toque final de autoria</p>
 <br/>
