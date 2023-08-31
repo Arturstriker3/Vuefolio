@@ -36,7 +36,7 @@ Esse projeto é uma aplicação de portfólio interativo que permite ao usuário
 
 **Efeito de Rolagem da Página**
 <div align="center">
-<img src="https://github.com/Arturstriker3/Vuefolio/assets/59231364/de78f4c0-5e77-479a-98b0-810d3f4d2a5f" width="auto" height="auto" />
+<img src="https://github.com/Arturstriker3/Vuefolio/assets/59231364/89dec77f-8a87-46b2-bbda-5d6bec2aa7a1" width="auto" height="auto" />
 </div>
 <p>Rodapé com toque final de autoria</p>
 <br/>
