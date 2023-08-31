@@ -38,9 +38,9 @@ const handleSubmit = () => {
 
   emailjs.send(
     'gmail_Message',
-    'template_16wjkja',
+    '####',
     templateParams,
-    'hDap8AtUpvuwZ29_q'
+    '####'
   )
     .then(response => {
       // Display a success message or perform other actions
