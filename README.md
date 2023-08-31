@@ -61,14 +61,5 @@ Esse projeto é uma aplicação de portfólio interativo que permite ao usuário
 <p>Serviços prestados pelo perfil.</p>
 <br/>
 
-**Footer da Página**
-<div align="center">
-<img src="https://github.com/Arturstriker3/Vuefolio/assets/59231364/f06d73e1-1e42-43ea-9ab4-7003a7208e7e" width="auto" height="auto" />
-</div>
-<p>Rodapé com toque final de autoria</p>
-<br/>
-
- 
-
-**Protótipo Netlify:** https://dazzling-trifle-656927.netlify.app/
+**Protótipo Interativo Stackblitz:** https://stackblitz.com/edit/vitejs-vite-awfegj
 <br/>
