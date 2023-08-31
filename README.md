@@ -29,7 +29,7 @@ Esse projeto é uma aplicação de portfólio interativo que permite ao usuário
 
 **Paleta de Cores**
 * Primary: rgb(29, 221, 189);
-<span style="display:inline-block; width: 12px; height: 12px; background-color: rgb(29, 221, 189);"></span>
+* Primary: <span style="display:inline-block; width: 12px; height: 12px; background-color: rgb(29, 221, 189);">TESTE</span>
 * BgDark: rgb(12, 12, 12);
 * White: rgb(250, 250, 250);
 * Secondary: rgb(0, 59, 50);
