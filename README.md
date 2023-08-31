@@ -12,7 +12,7 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run dev
 ```
 
 ### "Vuefolio" é um projeto dinâmico desenvolvido com o framework Vue.js. 
@@ -28,11 +28,11 @@ Esse projeto é uma aplicação de portfólio interativo que permite ao usuário
 * Biblioteca EmailJS;
 
 **Paleta de Cores**
-* Primary: rgb(29, 221, 189);
-* BgDark: rgb(12, 12, 12);
-* White: rgb(250, 250, 250);
-* Secondary: rgb(0, 59, 50);
-* BgLight: rgb(190, 181, 181);
+* Primary: rgb(29, 221, 189) Primary: <span style="color: rgb(29, 221, 189);">Primary</span>;
+* BgDark: rgb(12, 12, 12) BgDark: <span style="color: rgb(12, 12, 12);">BgDark</span>;
+* White: rgb(250, 250, 250) White: <span style="color: rgb(250, 250, 250);">White</span>;
+* Secondary: rgb(0, 59, 50) Secondary: <span style="color: rgb(0, 59, 50);">Secondary</span>;
+* BgLight: rgb(190, 181, 181) BgLight: <span style="color: rgb(190, 181, 181);">BgLight</span>;
 
 **Visual Demonstrativo**
 <div align="center">
