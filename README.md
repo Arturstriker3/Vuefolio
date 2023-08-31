@@ -29,6 +29,7 @@ Esse projeto é uma aplicação de portfólio interativo que permite ao usuário
 
 **Paleta de Cores**
 * Primary: rgb(29, 221, 189) Primary: <span style="color: rgb(29, 221, 189);">Primary</span>;
+* Primary: <span style="color: rgb(29, 221, 189);">Primary</span>
 * BgDark: rgb(12, 12, 12) BgDark: <span style="color: rgb(12, 12, 12);">BgDark</span>;
 * White: rgb(250, 250, 250) White: <span style="color: rgb(250, 250, 250);">White</span>;
 * Secondary: rgb(0, 59, 50) Secondary: <span style="color: rgb(0, 59, 50);">Secondary</span>;
