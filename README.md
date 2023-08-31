@@ -38,7 +38,6 @@ Esse projeto é uma aplicação de portfólio interativo que permite ao usuário
 <div align="center">
 <img src="https://github.com/Arturstriker3/Vuefolio/assets/59231364/2320bef3-2d03-49ec-93d6-aeb483631c76" width="auto" height="auto" />
 </div>
-<p>Rodapé com toque final de autoria</p>
 <br/>
 
 **Visual da Home**
